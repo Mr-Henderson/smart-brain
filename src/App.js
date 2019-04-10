@@ -11,7 +11,9 @@ import Rank from './components/Rank/Rank';
 import './App.css';
 
 const app = new Clarifai.App({
-  apiKey: 'e41b4d96a7f048339b83e1f1b9863af7'
+  // apiKey: 'e41b4d96a7f048339b83e1f1b9863af7'
+  apiKey: '3ad4f65e0679489d9fc7a54529cd0056'
+  
  });
 
 const particlesOptions = {
